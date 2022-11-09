@@ -9,4 +9,4 @@
 * Gamer
 * Kung-fu
 
-<a rel="me" href="https://uwyn.net/@gbevin">Follow me on Mastodon</a>
+<a rel="nofollow me" href="https://uwyn.net/@gbevin">Follow me on Mastodon</a>
