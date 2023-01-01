@@ -1,6 +1,6 @@
-Music: https://gbevin.com
-Company: https://uwyn.com
-Social: https://uwyn.net/@gbevin
+Music: https://gbevin.com  
+Company: https://uwyn.com  
+Social: https://uwyn.net/@gbevin  
 
 * Software Engineering and Software Product Manager at Moog Music
 * LinnStrument Principle Software Engineer
